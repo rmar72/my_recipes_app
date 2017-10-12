@@ -1,5 +1,14 @@
 {
-  "name": "my-recipes-app",
+  "name": "myrecipes",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  },
+  "version": "1.0.0",
+  "description": "ror-app",
+  "main": "index.js",
+  "repository": "https://github.com/rmar72/my_recipes_app.git",
+  "author": "Ruben S",
+  "license": "MIT"
 }
